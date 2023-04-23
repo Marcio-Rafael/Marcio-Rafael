@@ -5,8 +5,6 @@
 
 ![Marcio GitHub stats](https://github-readme-stats.vercel.app/api?username=Marcio-Rafael&show_icons=true&theme=dracula)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Marcio-Rafael&hide_progress=true)](https://github.com/anuraghazra/github-readme-stats)
-
 
 ## Tecnologias que eu uso e estou estudando 
 
